@@ -1,5 +1,5 @@
 # Electron
-A simple Electron.js frontend to a ToDo API
+A simple Vue Electron.js frontend to a ToDo API
 
 TL;DR
 ```
